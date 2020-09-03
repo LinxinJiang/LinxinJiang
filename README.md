@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning java and python :smiley:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: get an internship for summer 2021
-- ⚡ Fun fact: I got myself the first job at 12 for fun
+- ⚡ Fun fact: 
 
 
 
