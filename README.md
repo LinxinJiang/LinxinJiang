@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building my skill!
 - 🌱 I’m currently learning java and python :smiley:
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: get an internship for summer 2021
+- 🥅 2021 Goals: get an internship for summer 2021
  
 
 
